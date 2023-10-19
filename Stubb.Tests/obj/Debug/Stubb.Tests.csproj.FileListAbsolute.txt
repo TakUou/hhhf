@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\Stubb\Stubb.Tests\obj\Debug\Stubb.Tests.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Stubb\Stubb.Tests\obj\Debug\Stubb.Tests.csproj.CoreCompileInputs.cache

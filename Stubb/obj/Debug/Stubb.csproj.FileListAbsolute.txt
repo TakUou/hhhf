@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Stubb\Stubb\bin\Debug\Stubb.exe.config
+C:\Users\user\source\repos\Stubb\Stubb\bin\Debug\Stubb.exe
+C:\Users\user\source\repos\Stubb\Stubb\bin\Debug\Stubb.pdb
+C:\Users\user\source\repos\Stubb\Stubb\obj\Debug\Stubb.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Stubb\Stubb\obj\Debug\Stubb.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Stubb\Stubb\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Stubb\Stubb\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Stubb\Stubb\obj\Debug\Stubb_MarkupCompile.cache
+C:\Users\user\source\repos\Stubb\Stubb\obj\Debug\Stubb_MarkupCompile.lref
+C:\Users\user\source\repos\Stubb\Stubb\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Stubb\Stubb\obj\Debug\Stubb.g.resources
+C:\Users\user\source\repos\Stubb\Stubb\obj\Debug\Stubb.Properties.Resources.resources
+C:\Users\user\source\repos\Stubb\Stubb\obj\Debug\Stubb.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Stubb\Stubb\obj\Debug\Stubb.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Stubb\Stubb\obj\Debug\Stubb.exe
+C:\Users\user\source\repos\Stubb\Stubb\obj\Debug\Stubb.pdb
